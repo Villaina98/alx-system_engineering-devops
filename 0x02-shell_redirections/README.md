@@ -1,1 +1,1 @@
-Printing Hello World
+Writing a script that displays a confused smiley "(Ôo)'
