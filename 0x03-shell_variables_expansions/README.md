@@ -13,3 +13,4 @@
 12. prints all possible combinations of two letters, except oo
 13. prints a number with two decimal places, followed by a new line
 14. converts a number from base 10 to base 16
+15. encodes and decodes text using the rot13 encryption
