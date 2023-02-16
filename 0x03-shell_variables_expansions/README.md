@@ -3,3 +3,4 @@
 2. adds /action to the PATH
 3. counts the number of directories in the PATH
 4. lists environment variables
+5. lists all local variables and environment variables, and functions
